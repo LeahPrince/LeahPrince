@@ -15,7 +15,7 @@ I have worked on various data science projects through college coursework. I've 
 I have been coding in Python for two years and I'm looking to improve those skills by collaborating with like-minded people.
 
 #### Current Projects
->I am currently working a data science project to predict hospital length of stay.
+>I am currently working a data science project to explore hospital readmissions data.
 
 #### How to Contact Me
 :email: [LinkedIn](leah-prince-m-s-a-90a20818b) 
