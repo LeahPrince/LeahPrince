@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 I am a *Data Visualization Engineer*, with a focus on gaining insights through data. 
 #### My Goals
 
-:dizzy: I am an aspiring *Data Scientist*. 
+:dizzy: I am an aspiring *Principal Data Visualization Engineer*. 
 >I love the mystery behind discovering new findings, storytelling with data, using data to help make decisions and predicting outcomes based 
 >on what has already happened. 
 I have worked on various data science projects through college coursework. I've also recently graduated from a data science bootcamp.
