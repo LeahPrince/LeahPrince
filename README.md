@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hi, my name is Leah Prince! 
-I am a *Data Visualization Engineer* at Humana, with a focus on gaining insights through data. 
+I am a *Data Visualization Engineer*, with a focus on gaining insights through data. 
 #### My Goals
 
 :dizzy: I am an aspiring *Data Scientist*. 
