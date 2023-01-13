@@ -12,5 +12,3 @@ I am a *Data Visualization Engineer*, with a focus on gaining insights through d
 >I love the mystery behind discovering new findings, storytelling with data, using data to help make decisions and predicting outcomes based 
 >on what has already happened. 
 
-#### How to Contact Me
-:email: [LinkedIn](leah-prince-m-s-a-90a20818b) 
