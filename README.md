@@ -9,6 +9,5 @@ I am a *Data Visualization Engineer*, with a focus on gaining insights through d
 #### My Goals
 
 :dizzy: I am an aspiring *Principal Data Visualization Engineer*. 
->I love the mystery behind discovering new findings, storytelling with data, using data to help make decisions and predicting outcomes based 
->on what has already happened. 
+>I love the mystery behind discovering new findings, storytelling with data, using data to help make decisions and predicting outcomes.
 
